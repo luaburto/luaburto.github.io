@@ -5,7 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
 
 * CRM for Consorcio Corredores de Bolsa
 * Enrollment optimization for UNAB (Revenue management, and scholarships administration, enrollment scoring, scholarships simulations)
@@ -30,7 +29,4 @@ author_profile: true
 * Demand Forecasting for DCX with DMX Group working with Dr. Usama Fayyad.
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
 
