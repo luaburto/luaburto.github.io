@@ -11,6 +11,6 @@ citation: 'Aburto, L., & Weber, R. (2007). &quot;Improved supply chain managemen
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://luaburto.github.io/files/aburto2007.pdf)
 
 Recommended citation: Aburto, L., & Weber, R. (2007). &quot;Improved supply chain management based on hybrid demand forecasts.&quot; <i> Applied Soft Computing</i>. 7(1), 136-144.
