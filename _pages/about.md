@@ -37,7 +37,7 @@ I love to play tennis and I try hard to improve my backhand and serve. I also lo
 
 ![Photo 6](/images/photo6.jpg)
 
-![Photo 7](/images/photo7.jpg)
+![Photo 8](/images/photo8.jpg)
 
 
 Contact info
