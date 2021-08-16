@@ -13,6 +13,8 @@ I work as [Assistant Professor](https://ingenieria.uai.cl/profesor/luis-aburto/)
 
 During 2019, I worked in a secondment internship at the Katholieke Universiteit Leuven, as part of the [NeEDS Project– Network of European Data Scientists] (https://riseneeds.eu/). My research project was supervised by professors Jochen De Weerdt and Richard Weber.
 
+Previously, I worked as a part-time professor at the [Universidad de Chile’s Department of Industrial Engineering] (https://www.dii.uchile.cl/). I was also member of the [Center for Retail Studies] (https://www.ceret.cl/) where I developed applied research in retail.
+
 In the past, I led several data science projects in [Penta Analytics](https://www.analytics.cl) applying predictive models in chilean, latin american and american companies (industries as retail, manufacturing, banking, telco and government). I developed applications for fraud control, tax evasion, customer churn detection, customer lifetime value, direct marketing and customized promotions, pricing optimization models, credit scoring, among others. 
 
 The list of companies and institutions where I have collaborated include Yahoo, DaimlerChrysler, DMX Group, Easy, Alvi, Unimarc, Paris, Codelco, SII, Metlife, Consorcio Seguros, Walmart, Bancoestado, Enel, Chilquinta, Laureate, SAT, Falabella, La Polar, Alicorp and Sunat, among others.
