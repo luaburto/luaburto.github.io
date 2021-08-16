@@ -19,8 +19,7 @@ Personal life
 I love to play tennis and I try hard to improve my backhand and serve. I also love music. Long time ago I song in a wonderful rock band called "Rock in Progress". I love also to play guitar. I belong to [Secular Franciscan Order](https://ciofs.info/) and I am happyly married with Paloma Baytelman.
 
 
-#Example: editing a markdown file for a talk
-#![Editing a markdown file for a talk](/images/editing-talk.png)
+#![This is me](/images/luaburto.png)
 
 Contact info
 ------
