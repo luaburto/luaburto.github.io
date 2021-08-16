@@ -37,11 +37,11 @@ Work experience
   
 Skills
 ======
+* Optimization (MIP, NLP) 
 * Predictive Modeling
-* Optimization
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Deep Learning Keras / Tensorflow
+  * Caret / MLR
+  * Prescriptive Analytics
 * Experience coding with R, Python, Julia, Matlab, Gurobi, Cplex.
 
 Publications
