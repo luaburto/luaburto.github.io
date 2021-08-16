@@ -11,9 +11,9 @@ I am [Ph.D. in Engineering Systems](https://www.dsiuchile.cl/) from [Universidad
 
 I work as [Assistant Professor](https://ingenieria.uai.cl/profesor/luis-aburto/) in the [Engineering and Sciences Faculty](https://ingenieria.uai.cl/) of the [Universidad Adolfo Ibañez](https://www.uai.cl). I love to share my work in conferences such as Informs, Euro, Marketing Science, HIS and MLDM. My main research topics are machine learning, optimization, quantitative marketing, pricing, revenue management, prescriptive analytics and category management.
 
-During 2019, I worked in a secondment internship at the Katholieke Universiteit Leuven, as part of the [NeEDS Project– Network of European Data Scientists] (https://riseneeds.eu/). My research project was supervised by professors Jochen De Weerdt and Richard Weber.
+During 2019, I worked in a secondment internship at the Katholieke Universiteit Leuven, as part of the [NeEDS Project - Network of European Data Scientists](https://riseneeds.eu/). My research project was supervised by professors Jochen De Weerdt and Richard Weber.
 
-Previously, I worked as a part-time professor at the [Universidad de Chile’s Department of Industrial Engineering] (https://www.dii.uchile.cl/). I was also member of the [Center for Retail Studies] (https://www.ceret.cl/) where I developed applied research in retail.
+Previously, I worked as a part-time professor at the [Universidad de Chile’s Department of Industrial Engineering](https://www.dii.uchile.cl/). I was also member of the [Center for Retail Studies](https://www.ceret.cl/) where I developed applied research in retail.
 
 In the past, I led several data science projects in [Penta Analytics](https://www.analytics.cl) applying predictive models in chilean, latin american and american companies (industries as retail, manufacturing, banking, telco and government). I developed applications for fraud control, tax evasion, customer churn detection, customer lifetime value, direct marketing and customized promotions, pricing optimization models, credit scoring, among others. 
 
