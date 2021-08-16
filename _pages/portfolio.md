@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-** Research Projects - Work in Progress
+## Research Projects - Work in Progress
 
 * Multiproduct Pricing Optimization using machine learning and econometric modelling, (2020). With Daniel Gottlieb (2020) Master en Ingeniería Industrial e Investigación de Operaciones.
 * Detection of supermarket shopping motivations using a Latent Dirichlet Allocation approach. With Isabella Nicovani, Master en Ciencias de Ingeniería. (2021).
@@ -20,7 +20,7 @@ author_profile: true
 * Using machine learning methods to improve feasability for Vehicle routing problem instances for Simpliroute. With Rodrigo Morán, Master en Ingeniería Industrial e Investigación de Operaciones y Felipe Lagos.
 
 
-** Professional Projects
+## Professional Projects
 
 
 * CRM for Consorcio Corredores de Bolsa
