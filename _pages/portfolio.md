@@ -17,7 +17,7 @@ author_profile: true
 * Predicting next purchase motivation using an hierarquical supervised LDA approach (2022). With Vicente Riquelme, Master en Ingeniería Industrial e Investigación de Operaciones, Richard Weber and Jochen De Weerdt.
 * Comparing machine learning an HBM for demand estimation and price optimization (2022). With Francisca Ibañez, Master en Ciencias de Ingeniería and Florencia Darrigrandi.
 * When, Who and How much? Defining promotion parameters for frequent product purchase for Lipigas (2022). With Antonia Inda, Master en Ingeniería Industrial e Investigación de Operaciones y Wilfredo Yushimito.
-* Using machine learning methods to improve feasability for Vehicle routing problem instances for Simpliroute. With Rodrigo Morán, Master en Ingeniería Industrial e Investigación de Operaciones y Felipe Lagos.
+* Using machine learning methods to improve feasability for Vehicle routing problem instances for Simpliroute (2022). With Rodrigo Morán, Master en Ingeniería Industrial e Investigación de Operaciones y Felipe Lagos.
 
 
 ## Professional Projects
