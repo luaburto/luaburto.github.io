@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
 
 * Aburto, L. Musalem, A. Predicting Next Purchase Behavior From Shopping Basket Data Using a Supervised LDA Approach. European Conference on Operational Research. Athens, Greece, July 2021.
 * Aburto, L. Musalem, A. Predicting Next Purchase Behavior From Shopping Basket Data Using a Supervised LDA Approach. Marketing Science Conference. Online, June 2021.
