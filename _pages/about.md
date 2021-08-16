@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+> "None of us is as smart as all of us"
+
 I am [Ph.D. in Engineering Systems](https://www.dsiuchile.cl/) from [Universidad de Chile](https://www.uchile.cl/). I also hold a M. Sc. in Operations Management and Industrial Engineering title from the same University.  My PhD thesis was about machine learning algorithms to support pricing and promotion decisions in the retail industry. This work was supervised by professors Marcel Goic and Andrés Musalem.
 
 I work as [Assistant Professor](https://ingenieria.uai.cl/profesor/luis-aburto/) in the [Engineering and Sciences Faculty](https://ingenieria.uai.cl/) of the [Universidad Adolfo Ibañez](https://www.uai.cl). I love to share my work in conferences such as Informs, Euro, Marketing Science, HIS and MLDM. My main research topics are machine learning, optimization, quantitative marketing, pricing, revenue management, prescriptive analytics and category management.
@@ -21,6 +24,7 @@ The list of companies and institutions where I have collaborated include Yahoo, 
 
 Topics of interest: Pricing Optimization, Operations Management, CRM, Operations Research, Marketing research, Marketing Science, Retail Management, Pricing Models, Forecast and Demand Management.
 
+> "the simplest explanation is usually the best one" (William of Okham, franciscan)
 
 Personal life
 ======
