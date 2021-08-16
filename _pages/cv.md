@@ -65,8 +65,9 @@ Teaching
 Awards
 ======
 * Best Professor Executive Programs, Industrial Engineering Department, Universidad de Chile. 2013,2015,2016,2017.
+* National Doctorate Grant by Conicyt Chile, 2015.
 * Best Part time Professor. Industrial Engineering Department, Universidad de Chile, 2009.
 * Outstanding student award. FCFM, Universidad de Chile, 1997, 1998, 2000, 2001.
-* 2015 National Doctorate Grant by Conicyt Chile.
+
 
 
