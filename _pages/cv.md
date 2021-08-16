@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Industrial Engineer, Universidad de Chile, 2002
+* Ph.D in Engineering System, Universidad de Chile, 2019
 * M.S. in Operations Management, Universidad de Chile, 2002
-* Ph.D in System Engineering, Universidad de Chile, 2019 
+* Industrial Engineer, Universidad de Chile, 2002
+
 
 Work experience
 ======
